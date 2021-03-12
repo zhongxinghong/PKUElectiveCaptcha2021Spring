@@ -8,5 +8,3 @@ __pycache__/
 /refcode
 /backup
 config.ini
-*.log
-*.zip
