@@ -1,6 +1,6 @@
 # 北大选课网验证码识别 2021 年春季学期
 
-Powered by *Elector Quartet* (***@xmcp**, @SpiritedAwayCN, @Rabbit, @gzz*)
+Powered by *Elector Quartet* (***@Rabbit**, @xmcp, @SpiritedAwayCN, @gzz*)
 
 ## 数据集描述
 
