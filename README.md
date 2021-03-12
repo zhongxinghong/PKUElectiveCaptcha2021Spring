@@ -80,5 +80,5 @@ Powered by *Elector Quartet* (***@xmcp**, @SpiritedAwayCN, @Rabbit, @gzz*)
 - 模型自举代码参考了 [SpiritedAwayCN/ElectiveCaptCha][ref-SpiritedAwayCN-ElectiveCaptCha] 的 `bootstrap.py`，该代码最初由 xmcp 提供
 - 人工标注验证码的网站后端代码和前端设计参考了 xmcp 的相关工作
 
-[ref-SpiritedAwayCN-ElectiveCaptCha]: https://github.com/SpiritedAwayCN/ElectiveCaptCh
+[ref-SpiritedAwayCN-ElectiveCaptCha]: https://github.com/SpiritedAwayCN/ElectiveCaptCha
 [ref-xmcp-dataset]: https://github.com/xmcp/elective-dataset-2021spring
