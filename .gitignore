@@ -1,0 +1,12 @@
+.vscode/
+__pycache__/
+/archive
+/data
+/model
+/tmp
+/log
+/refcode
+/backup
+config.ini
+*.log
+*.zip
